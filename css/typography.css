@@ -120,13 +120,25 @@ ul {
 
 ul li {
 	position: relative;
+}
 
-
-ul li:before {
+ul li: before {
 	content: "☯";
 	color:#EC19BD;
 	position:absolute;
 	left: 2.1em;
+	
+}
+
+th {
+	background-color: #CAD621;
+	text-align: left;
+	
+}
+
+th, td {
+	padding: 0.25em;
+	border:  px dashed #
 	
 }
 
