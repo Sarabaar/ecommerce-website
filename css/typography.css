@@ -1,6 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
 
+/* Link: #B9D22D, #EE20C3, #CAD621, #1E32E1, #5C740F,  #EC19BD  */
+
 html {
 	font: normal 100%/1.5 "Maison Mono Light", Consolas, monospace; /*16px/24px */
 
@@ -94,22 +96,22 @@ h1, h2, h3, h4, h5, h6,
 
 a, 
 a:link {
-	color:#CAD621;
+	color:#B9D22D;
 	text-decoration: none;
 	border-bottom: 0.1em solid rgba(100,200,100 0.5);
 	transition: all 250ms linear;
 }
 
 a:visited {
-	color: #1E32E1;
+	color: #9BB121;
 	border-bottom-color: rgba (100,150,100,0.5);
 }
 
 a:hover, 
 a:focus,
 a:active, {
-	color:#5C740F;
-	border-bottom-color: #5C740F;
+	color:B9D22D;
+	border-bottom-color: #8731B9;
 }
 
 ul {
