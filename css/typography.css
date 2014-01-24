@@ -126,7 +126,7 @@ ul li: before {
 	content: "☯";
 	color:#EC19BD;
 	position:absolute;
-	left: 2.1em;
+	left: -1em;
 	
 }
 
