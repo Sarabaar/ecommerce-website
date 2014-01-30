@@ -98,19 +98,19 @@ a,
 a:link {
 	color:#B9D22D;
 	text-decoration: none;
-	border-bottom: 0.1em solid rgba(100,200,100 0.5);
+	border-bottom: 0.1em solid rgba(100,200,100, 0.5);
 	transition: all 250ms linear;
 }
 
 a:visited {
 	color: #9BB121;
-	border-bottom-color: rgba (100,150,100,0.5);
+	border-bottom-color: rgba(100,150,100,0.5);
 }
 
 a:hover, 
 a:focus,
-a:active, {
-	color:B9D22D;
+a:active {
+	color:#B9D22D;
 	border-bottom-color: #8731B9;
 }
 
@@ -122,7 +122,7 @@ ul li {
 	position: relative;
 }
 
-ul li: before {
+ul li:before {
 	content: "☯";
 	color:#EC19BD;
 	position:absolute;
