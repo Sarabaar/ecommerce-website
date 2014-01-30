@@ -19,9 +19,9 @@ body {
 
 input[type="text"] {
   height: 60px;
-  font-size: 55px;
+  font-size: 45px;
   display: inline-block;
-  font-family: "Lato";
+  font-family:"Maison Mono Light", Consolas, monospace; 
   font-weight: 100;
   border: none;
   outline: none;
