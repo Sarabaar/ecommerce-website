@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
-/* Link: #B9D22D, #EE20C3, #CAD621, #1E32E1, #5C740F,  #EC19BD  */
+/* Link: #B9D22D, #EE20C3, #CAD621, #1E32E1, #5C740F,  #EC19BD #000000; #fff*/
 
 html {
 	font: normal 100%/1.5 "Maison Mono Light", Consolas, monospace; /*16px/24px */
@@ -110,8 +110,8 @@ a:visited {
 a:hover, 
 a:focus,
 a:active {
-	color:#B9D22D;
-	border-bottom-color: #8731B9;
+	color:#000000;
+	border-bottom-color: #fff;
 }
 
 ul {
